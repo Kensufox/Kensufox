@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kensufox
+- 👀 I’m interested in game developpement
+- 🌱 I’m currently learning to use godot and aseprite
+- 📫 How to reach me : @Kensufox on discord/itch.io or my email : kensufox.coding@gmail.com
